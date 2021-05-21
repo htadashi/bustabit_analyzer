@@ -7,6 +7,7 @@
 [![Bustabit Analyzer Demo](demo.gif)
 
 ⚠  **If you continue to gamble despite it negatively impacting your life or wanting to stop, you might be addicted to gambling. In this case, please seek professional help and support groups to beat it.**
+
 📒 *Then he said to them, “Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.”* --- Luke 12:15
 
 
