@@ -4,7 +4,7 @@
 🎲 A [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1w4RSNsScIgSw9AKgqOLl7SrwQMfyAMV0mYi27ALH-hs/edit#gid=0) for studying the statistics of [Bustabit](https://www.bustabit.com/) and analyzing gambling strategies.
 `Loader.gs` based on Dexon95 [jsfiddle](https://jsfiddle.net/Dexon95/2fmuxLza/show) and `Crypto.gs` is from Jeff Mott's [Crypto-js](https://code.google.com/archive/p/crypto-js/). 
 
-[![Bustabit Analyzer Demo](demo.gif)
+![Bustabit Analyzer Demo](demo.gif)
 
 ⚠  **If you continue to gamble despite it negatively impacting your life or wanting to stop, you might be addicted to gambling. In this case, please seek professional help and support groups to beat it.**
 
